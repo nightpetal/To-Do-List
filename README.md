@@ -1,4 +1,4 @@
-<img src="/WindowsFormsApp2\images\LoginForm.png" alt="Login Form" align="center" width="auto" height="auto"><h1 align="center">To-Do List</h1>
+<img src="WindowsFormsApp2\images\todo-todo.png" alt="Shows To-Do list tasks" align="center" width="auto" height="auto"><h1 align="center">To-Do List</h1>
 <p align="center"><a href="#project-description">Project Description</a> - <a href="#key-features">Key Features</a> - <a href="#technology-stack">Tech Stack</a></p>
 
 ## Project Description
