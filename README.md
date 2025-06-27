@@ -1,7 +1,5 @@
-<img src="WindowsFormsApp2\WindowsFormsApp2\images\LoginForm.png" alt="Login Form" align="center" width="auto" height="auto"><h1 align="center">To-Do List</h1>
+<img src="/WindowsFormsApp2\images\LoginForm.png" alt="Login Form" align="center" width="auto" height="auto"><h1 align="center">To-Do List</h1>
 <p align="center"><a href="#project-description">Project Description</a> - <a href="#key-features">Key Features</a> - <a href="#technology-stack">Tech Stack</a></p>
-
-<img src="/blob/main/WindowsFormsApp2/todo_list.ico" alt="" align="center" width="auto" height="auto">
 
 ## Project Description
 
@@ -19,9 +17,9 @@ It is ideal for personal use, with an emphasis on ease of use and offline functi
 *   Delete Tasks
 
 ## Images
-<img src="WindowsFormsApp2\WindowsFormsApp2\images\LoginForm.png" alt="Login Form" align="center" width="auto" height="auto">
-<img src="WindowsFormsApp2\WindowsFormsApp2\images\todo-todo.png" alt="Shows To-Do list tasks" align="center" width="auto" height="auto">
-<img src="WindowsFormsApp2\WindowsFormsApp2\images\todo-completed.png" alt="Shows To-Do list completed tasks" align="center" width="auto" height="auto">
+<img src="WindowsFormsApp2\images\LoginForm.png" alt="Login Form" align="center" width="auto" height="auto">
+<img src="WindowsFormsApp2\images\todo-todo.png" alt="Shows To-Do list tasks" align="center" width="auto" height="auto">
+<img src="WindowsFormsApp2\images\todo-completed.png" alt="Shows To-Do list completed tasks" align="center" width="auto" height="auto">
 
 ## Tech Stack
 
