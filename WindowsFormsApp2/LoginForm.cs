@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace WindowsFormsApp2
@@ -16,8 +9,8 @@ namespace WindowsFormsApp2
         public LoginForm()
         {
             InitializeComponent();
-            textBox1.Text = "admin";
-            textBox2.Text = "admin";
+            textBox1.Text = "nightpetal";
+            textBox2.Text = "nightpetal";
         }
 
         private void LoginForm_Load(object sender, EventArgs e)
@@ -30,7 +23,7 @@ namespace WindowsFormsApp2
             string userName = textBox1.Text;
             string password = textBox2.Text;
 
-            if (userName == "admin" && password == "admin")
+            if (userName == "nightpetal" && password == "nightpetal")
             {
                 UserName = userName;
                 this.DialogResult = DialogResult.OK;

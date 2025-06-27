@@ -76,7 +76,6 @@
             this.label2.TabIndex = 3;
             this.label2.Text = "To Do List";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // groupBox1
             // 
@@ -111,6 +110,7 @@
             this.groupBox2.Controls.Add(this.checkedListBox1);
             this.groupBox2.Controls.Add(this.label3);
             this.groupBox2.Location = new System.Drawing.Point(10, 21);
+            this.groupBox2.Margin = new System.Windows.Forms.Padding(0);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Size = new System.Drawing.Size(479, 193);
             this.groupBox2.TabIndex = 5;
